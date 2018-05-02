@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/about_london_id">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/AboutLondonTitleStyle"
+            android:text="@string/about_london_title"
+            android:textSize="32sp"
+            android:textAlignment="center"
+            android:textColor="@android:color/holo_blue_dark" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:src="@drawable/london"
+            android:adjustViewBounds="true"/>
+
+        <TextView
+            style="@style/AboutLondonStyle"
+            android:text="@string/about_london" />
+
+        <TextView
+            style="@style/AboutLondonTitleStyle"
+            android:padding="10dp"
+            android:text="@string/did_you_know_title"
+            android:textSize="26sp"/>
+
+        <TextView
+            style="@style/AboutLondonStyle"
+            android:text="@string/cockney_info" />
+
+        <TextView
+            style="@style/AboutLondonStyle"
+            android:text="@string/londoners"
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+
+</ScrollView>

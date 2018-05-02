@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/list_of_attractions"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        style="@style/AttractionImageStyle"
+        android:id="@+id/attractionImgId"
+        android:src="@mipmap/ic_launcher" />
+
+
+    <LinearLayout
+        android:id="@+id/attractionInfoContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@id/attractionImgId"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/name_text_view"
+            style="@style/AttractionInfoStyle"
+            android:textStyle="bold"
+            tools:text="Name" />
+
+        <TextView
+            android:id="@+id/address_text_view"
+            style="@style/AttractionInfoStyle"
+            tools:text="Address" />
+
+        <TextView
+            android:id="@+id/phone_text_view"
+            style="@style/AttractionInfoStyle"
+            tools:text="Phone" />
+
+        <TextView
+            android:id="@+id/opening_hrs_text_view"
+            style="@style/AttractionInfoStyle"
+            tools:text="Opening Hrs" />
+
+        <TextView
+            android:id="@+id/cost_text_view"
+            style="@style/AttractionInfoStyle"
+            tools:text="Cost" />
+
+    </LinearLayout>
+
+</RelativeLayout>

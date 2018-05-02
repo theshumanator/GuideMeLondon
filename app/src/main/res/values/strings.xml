@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Guide Me! London</string>
+
+    <string name="show_me">Show me!</string>
+    <string name="feed_me">Feed me!</string>
+    <string name="buy_me">Buy me!</string>
+    <string name="accommodate_me">Accommodate me!</string>
+    <string name="tell_me">Tell me!</string>
+
+    <string name="about_london_title">About London: the greatest city on earth!</string>
+    <string name="about_london">Welcome to London! London is the capital of England and the United Kingdom.
+        It is rich in history, There was a time the Romans were here. In London you will see a contrast
+        of modern (the Shard and London eye) and old/historical (Big Ben clock tower, Westminster and
+        Buckingham palace. Oh and we have loads of bridges but the ones you probably already know are
+        Tower bridge (it opens up sometimes) and London bridge (the ugly one across from Tower bridge).
+        London bridge may be boring most of the time but go there between 8-9 in the morning and watch
+        people commuting up/down going to work. It is a sight not to be missed.</string>
+
+    <string name="did_you_know_title">Did you know?</string>
+    <string name="cockney_info">1. The working class of London have their own English called
+        Cockney? The upper class would speak Mockney instead (Mock+Cockney). Ok, it is not
+        exactly a language. It is English but London-ised.</string>
+    <string name="londoners">2. London may not be huge in size but it has people from every
+        nation so if you are missing some home food, be sure to ask around. There will
+        always be a restaurant or shop that sell your home stuff.</string>
+
+    <!--general attraction info-->
+    <string name="various_phone">Various</string>
+    <string name="allday">24/7</string>
+    <string name="free">Free</string>
+    <string name="very_cheap">£</string>
+    <string name="cheap">££</string>
+    <string name="mid_range">£££</string>
+    <string name="expensive">££££</string>
+    <string name="very_cheap_to_cheap">£-££</string>
+    <string name="cheap_to_mid_range">££-£££</string>
+    <string name="mid_range_to_expensive">£££-££££</string>
+
+    <!--accommodate me specific info-->
+    <string name="shangrila">Shangri La - Shard</string>
+    <string name="shangrila_address">1 London Bridge</string>
+    <string name="shangrila_phone">02081545839</string>
+    <string name="generator">Generator</string>
+    <string name="generator_address">1 Tower Hill</string>
+    <string name="generator_phone">0213439839</string>
+    <string name="zhotel">Z Hotel</string>
+    <string name="zhotel_address">123 Holborn Road</string>
+    <string name="zhotel_phone">02081764439</string>
+    <string name="aloft">Z Hotel</string>
+    <string name="aloft_address">10 Marble Arch</string>
+    <string name="aloft_phone">020288848839</string>
+    <string name="browns">Z Hotel</string>
+    <string name="browns_address">1 Kilburn Road</string>
+    <string name="browns_phone">01938873716</string>
+
+    <!--buy me specific info-->
+    <string name="oxfordst">Oxford Street</string>
+    <string name="oxfordst_address">1 Oxford Street</string>
+    <string name="oxfordst_hrs">Everyday: 09:00-21:00</string>
+    <string name="regentst">Regent Street</string>
+    <string name="regentst_address">1 Regent Street</string>
+    <string name="regentst_hrs">Everyday: 09:00-21:00</string>
+    <string name="westfield">Westfield</string>
+    <string name="westfield_address">Next to Startford Station</string>
+    <string name="westfield_hrs">Everyday: 09:00-21:00</string>
+    <string name="westfield_phone">02080964439</string>
+    <string name="camden_mkt">Camden Market</string>
+    <string name="camden_mkt_address">1 Camden Road</string>
+    <string name="camden_mkt_hrs">Sunday: 09:00-17:00</string>
+    <string name="covent_garden">Covent Garden</string>
+    <string name="covent_garden_address">Next to Covent Garden Tube Station</string>
+    <string name="covent_garden_hrs">Everyday: 09:00-18:00</string>
+
+
+
+    <!--feed me specific info-->
+    <string name="whitecross_food_mkt">Whitecross Food Market</string>
+    <string name="whitecross_food_mkt_address">Next to Faringdon Station</string>
+    <string name="whitecross_food_mkt_hrs">Monday–Friday: 11:00-16:00</string>
+    <string name="whitecross_food_mkt_phone">02081548439</string>
+    <string name="alex_fish_bar">Alex Fish Bar</string>
+    <string name="alex_fish_bar_address">1 Finsbury Square</string>
+    <string name="alex_fish_bar_hrs">Monday-Friday: 11:00-23:00</string>
+    <string name="alex_fish_bar_phone">0213434123</string>
+    <string name="borough_food_mkt">Borough Food Market</string>
+    <string name="borough_food_mkt_address">Next to London Bridge</string>
+    <string name="borough_food_mkt_hrs">Everyday: 10:00-16:00</string>
+    <string name="borough_food_mkt_phone">02081764474</string>
+    <string name="stax">Stax Diner</string>
+    <string name="stax_address">2 Cannarby Street</string>
+    <string name="stax_hrs">Monday-Friday: 11:00-23:00</string>
+    <string name="stax_phone">02191748839</string>
+    <string name="camden_food_mkt">Whitecross Food Market</string>
+    <string name="camden_food_mkt_address">Next to Faringdon Station</string>
+    <string name="camden_food_mkt_hrs">Sunday: 10:00-16:00</string>
+    <string name="camden_food_mkt_phone">02080018839</string>
+
+    <!--show me specific info-->
+    <string name="big_ben">Big Ben</string>
+    <string name="big_ben_address">20 Westminster Bridge</string>
+    <string name="big_ben_hrs">Monday–Friday: 09:00-17:00</string>
+    <string name="big_ben_phone">02081545839</string>
+    <string name="tower_bridge">Tower Bridge</string>
+    <string name="tower_bridge_address">10 Tower Hill</string>
+    <string name="tower_bridge_phone">0213434839</string>
+    <string name="buckingham_palace">Buckingham Palace</string>
+    <string name="buckingham_palace_address">123 St James Park</string>
+    <string name="wbuckingham_palace_hrs">Everyday: 10:00-16:00</string>
+    <string name="buckingham_palace_phone">02081764439</string>
+    <string name="hyde_park">Hyde Park</string>
+    <string name="hyde_park_address">20 Marble Arch</string>
+    <string name="hyde_park_phone">02947739388</string>
+    <string name="greenwich_obs">Greenwich Observatory</string>
+    <string name="greenwich_obs_address">1 North Greenwich Road</string>
+    <string name="greenwich_obs_phone">020847618847</string>
+
+
+</resources>

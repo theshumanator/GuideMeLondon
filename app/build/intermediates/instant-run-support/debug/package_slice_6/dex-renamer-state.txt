@@ -1,0 +1,4 @@
+#Tue Mar 06 18:26:27 GMT 2018
+base.0=/Users/fatoumeh/AndroidStudioProjects/GuideMeLondon/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
